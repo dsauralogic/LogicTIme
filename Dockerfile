@@ -33,6 +33,9 @@ RUN php artisan key:generate --force
 # Ejecuta las migraciones
 RUN php artisan migrate --force
 
+# Crea un usuario administrador
+RUN php artisan tinker --execute="\$user = new App\Models\User; \$user->name = 'Trabajador 2'; \$user->email = 't2@logiacfic.com'; \$user->password = \Illuminate\Support\Facades\Hash::make('trabajador2'); \$user->is_admin = false; \$user->save();"
+
 # Da permisos al directorio de almacenamiento
 RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache
 RUN chmod -R 775 /var/www/storage /var/www/bootstrap/cache
