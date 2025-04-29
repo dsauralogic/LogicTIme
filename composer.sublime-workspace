@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ur",
+				"url_web"
+			],
+			[
+				"url",
+				"url_web"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/torrefacto10/Documents/fichajes-nuevo/resources/views/dashboard.blade.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/app/Services/ZohoService.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/app/Http/Controllers/FichajeController.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/routes/web.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/app/Http/Controllers/Controller.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/app/Http/Controllers/ProfileController.php",
+		"/Users/torrefacto10/fichajes-logicacfi/.env",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/.env",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/config/zoho.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/app/Models/Fichaje.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/database/migrations/2025_04_21_044545_create_fichajes_table.php",
+		"/Users/torrefacto10/Documents/fichajes-nuevo/laravel/.env",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/fichaje/fichar-nuevo.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/app/Services/ZohoService.php",
+		"/Users/torrefacto10/fichajes-logicacfi/app/Models/FichajeTemporal.php",
+		"/Users/torrefacto10/fichajes-logicacfi/app/Http/Controllers/FichajeTemporalController.php",
+		"/Users/torrefacto10/fichajes-logicacfi/routes/web.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/fichaje/seleccionar-tarea.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/layouts/app.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/app/Http/Controllers/FichajeController.php",
+		"/Users/torrefacto10/fichajes-logicacfi/fichar-nuevo.blade.o",
+		"/Users/torrefacto10/fichajes-logicacfi/database/migrations/2025_04_20_134601_create_fichajes_temporales_table.php",
+		"/Users/torrefacto10/fichajes-logicacfi/app/Models/Fichaje.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/fichaje/pausa-confirmada.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/fichaje/fichar-activo.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/layouts/navigation.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/config/app.php",
+		"/Users/torrefacto10/fichajes-logicacfi/database/migrations/2025_04_20_102643_rename_paused_minutes_to_paused_seconds_in_fichajes_table.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/pausa-confirmada.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/fichar-activo.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/dashboard.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/database/migrations/2025_04_20_072650_add_active_minutes_to_fichajes_table.php",
+		"/Users/torrefacto10/fichajes-logicacfi/composer.json",
+		"/Users/torrefacto10/fichajes-logicacfi/config/zoho.php",
+		"/Users/torrefacto10/fichajes-logicacfi/package.json",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/js/app.js",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/seleccionar-tarea.blade.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/app/Http/Controllers/Controller.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/app/Http/Controllers/FichajeController.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/app/Models/Fichaje.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/app/Providers/AppServiceProvider.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/vite.config.js",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/routes/console.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/routes/web.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/fichaje-finalizado.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/views/fichar.blade.php",
+		"/Users/torrefacto10/fichajes-logicacfi/resources/css/app.css",
+		"/Users/torrefacto10/fichajes-logicacfi/database/migrations/2025_03_31_184741_create_fichajes_table.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/resources/views/fichar-activo.blade.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/config/zoho.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/resources/views/login-trabajador.blade.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/bootstrap/app.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/app/Http/Kernel.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/app/Http/Middleware/GpsConfirmed.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/resources/views/fichar.blade.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/.env",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/resources/views/pausa-confirmada.blade.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/resources/views/fichaje-finalizado.blade.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/resources/views/inicio.blade.php",
+		"/Users/torrefacto10/Desktop/fichador/fichador-zoho/database/migrations/2025_03_30_144751_create_fichajes_table.php",
+		"/Users/torrefacto10/Library/Application Support/qr-generator-app/qr_codes/firma_Eloy_Ramón_1741717103616.html",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/renderer/settings.html",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/renderer/index.html",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/renderer/style.css",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/preload.js",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/renderer/signature-format.js",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/renderer/signature-format.html",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/main.js",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/python/requirements.txt",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/config.json",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/renderer/settings.js",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/app.py",
+		"/Users/torrefacto10/Desktop/QRGeneratorApp/python/config.json",
+		"/Users/torrefacto10/Desktop/QRGENERATOR/config.json",
+		"/Users/torrefacto10/Desktop/QRGENERATOR/setup.py",
+		"/Users/torrefacto10/Desktop/QRGENERATOR/generador.py",
+		"/Users/torrefacto10/Desktop/REFORMAS/wp-config.php",
+		"/Users/torrefacto10/Desktop/DIVI-CHILD_OK/style.css",
+		"/Users/torrefacto10/Desktop/LOGICACFI/GAROFOLI/APP/generador.py",
+		"/Users/torrefacto10/Desktop/QUIM CODE/Menu.html",
+		"/Users/torrefacto10/Documents/AVISO LEGAL y POLITICA de PRIVACIDAD",
+		"/Users/torrefacto10/Desktop/GAROFOLI/QRCODE/base.py",
+		"/Users/torrefacto10/Desktop/GAROFOLI/QRCODE/qr_generator.py",
+		"/Volumes/LaCie/WEB DESIGN/Divi-Child-Theme/functions.php",
+		"/Volumes/LaCie/WEB DESIGN/Divi-Child-Theme/style.css",
+		"/Users/torrefacto10/Desktop/DIVI-CHILD_OK/functions.php",
+		"/Volumes/LaCie/OSCAR/WORLDBRIDGE/hello-theme-child-master.zip",
+		"/Volumes/LaCie/RICOPIA/CSS EXTRA RICOPIA ORIGINAL",
+		"/Volumes/LaCie/RICOPIA/CSS EXTRA RICOPIA",
+		"/Volumes/LaCie/OSCAR/QUIMPASCUAL/CODIGO.html",
+		"/Users/torrefacto10/Desktop/nadav/www.nadavkander.com/assets/css/style_v=1.46.css",
+		"/Users/torrefacto10/Documents/www.quimpascual.com/portraits/imatge1/single.html",
+		"/Users/torrefacto10/Documents/www.quimpascual.com/portraits/imatge2/single.html",
+		"/Users/torrefacto10/Desktop/nadav/www.nadavkander.com/index.html",
+		"/Users/torrefacto10/Documents/www.quimpascual.com/portraits.html",
+		"/Users/torrefacto10/Documents/www.quimpascual.com/index.html",
+		"/Users/torrefacto10/Documents/www.quimpascual.com/files/portraits/imatge1/_largeThumbnail/imatge1.jpg",
+		"/Users/torrefacto10/Desktop/nadav/www.nadavkander.com/index.sublime-project",
+		"/Users/torrefacto10/Documents/www.quimpascual.com/assets/js/lib.min_v=1.44.js",
+		"/Users/torrefacto10/Desktop/instrucciones crack adobe photoshop"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "composer.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
